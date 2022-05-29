@@ -4,7 +4,8 @@
   "description": "Practice testing using Jest",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch *.js"
   },
   "author": "Joseph Kessler",
   "license": "ISC",
